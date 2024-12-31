@@ -45,7 +45,7 @@ Artemis is not just an assistant; it’s the gateway to a new era of intelligent
   Available for download on the [Google Play Store](https://play.google.com/store) and the [Apple App Store](https://www.apple.com/app-store/).
   
 - **Desktop**:  
-  Download for Windows, Mac, and Linux available on our dedicated website at [www.drauig.com/artemis](https://www.drauig.com/artemis).
+  Download for Windows, Mac, and Linux available on our dedicated website at [www.drau.ct.ws/artemis](https://www.drau.ct.ws/artemis).
 
 - **Smartwatch**:  
   Artemis is also available for installation on your smartwatch for seamless, on-the-go access.
@@ -77,7 +77,7 @@ Artemis is not just an AI assistant; it's a comprehensive ecosystem. Here are th
 
 We believe in community and collaboration. Developers and the public can contribute to the improvement of Artemis, particularly by helping train our **DyFlow** NLP model. 
 
-Visit [https://drau.ct.ws/artemis/contribute](https://drau.ct.ws/artemis/contribute) to get involved in training and enhancing our language model, and be part of the journey to make Artemis even smarter.
+Visit [https://drau.ct.ws/artemis/support](https://drau.ct.ws/artemis/support) to get involved in training and enhancing our language model, and be part of the journey to make Artemis even smarter.
 
 ---
 
@@ -91,7 +91,7 @@ Artemis is licensed under the [MIT License](LICENSE).
 
 For more information, support, or inquiries, please contact us at:  
 Email: support@drauig.com  
-Website: [www.drauig.com](https://www.drauig.com)
+Website: [https://drau.ct.ws](https://drau.ct.ws)
 
 ---
 
