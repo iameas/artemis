@@ -45,7 +45,7 @@ Artemis is not just an assistant; it’s the gateway to a new era of intelligent
   Available for download on the [Google Play Store](https://play.google.com/store) and the [Apple App Store](https://www.apple.com/app-store/).
   
 - **Desktop**:  
-  Download for Windows, Mac, and Linux available on our dedicated website at [https://drauig.com](https://drauig.com).
+  Download for Windows, Mac, and Linux available on our dedicated website at [https://drauig.com/kim](https://drauig.com/kim).
 
 - **Smartwatch**:  
   Artemis is also available for installation on your smartwatch for seamless, on-the-go access.
