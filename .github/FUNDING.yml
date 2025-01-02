@@ -1,8 +1,4 @@
 # FUNDING.yml
 # Funding options for Artemis Kim through multiple crypto networks.
 
-crypto:
-  ethereum: "0xF9d1E51CE92b44De296c2796BA938012Fd3807e4"  # Ethereum wallet address
-  polygon: "0xF9d1E51CE92b44De296c2796BA938012Fd3807e4"  # Polygon wallet address
-  trust_wallet: "0xF9d1E51CE92b44De296c2796BA938012Fd3807e4"  # Trust Wallet address
-  avalanche_c_chain: "0xF9d1E51CE92b44De296c2796BA938012Fd3807e4"  # Avalanche C Chain wallet address
+ethereum: "0xF9d1E51CE92b44De296c2796BA938012Fd3807e4"
