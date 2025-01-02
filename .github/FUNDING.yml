@@ -1,4 +1,8 @@
 # FUNDING.yml
-# Add links to support Artemis through GoFundMe and PayPal.
+# Funding options for Artemis Kim through multiple crypto networks.
 
-paypal: iamthankgodofem2025@gmail.com  # Your PayPal email for direct support
+crypto:
+  ethereum: "0xF9d1E51CE92b44De296c2796BA938012Fd3807e4"  # Ethereum wallet address
+  polygon: "0xF9d1E51CE92b44De296c2796BA938012Fd3807e4"  # Polygon wallet address
+  trust_wallet: "0xF9d1E51CE92b44De296c2796BA938012Fd3807e4"  # Trust Wallet address
+  avalanche_c_chain: "0xF9d1E51CE92b44De296c2796BA938012Fd3807e4"  # Avalanche C Chain wallet address
